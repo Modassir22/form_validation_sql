@@ -1,0 +1,17 @@
+{
+  "name": "sql_practice",
+  "version": "1.0.0",
+  "description": "authentication purpose testing",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.12.0",
+    "y": "^0.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Modassir Imam",
+  "license": "ISC"
+}
